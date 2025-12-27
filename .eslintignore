@@ -1,0 +1,2 @@
+# VS Code ESLint extension may lint non-TS utility scripts; exclude them from the TS project ESLint config.
+scripts/**
